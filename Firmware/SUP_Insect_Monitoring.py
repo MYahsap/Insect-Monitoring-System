@@ -1,7 +1,8 @@
+# by MYahsap for SUP
+##################################################################
 import sensor, image, time, ml, math, uos, gc, machine
 from machine import Pin
 from machine import LED
-
 ##################################################################
 #Variables
 min_confidence = 0.5
@@ -16,7 +17,6 @@ sensor_framsize = sensor.UXGA
 datetimetuple = (2025, 6, 1, 1, 0, 0, 0, 0)
 csv_filename = "detections.csv"
 ##################################################################
-
 #Status LED
 statusLED = LED("LED_BLUE")
 statusLED.on()
