@@ -1,0 +1,15 @@
+background
+0-rice_leaf_roller
+1-rice_leaf_caterpillar
+10-rice_water_weevil
+11-rice_leafhopper
+12-grain_spreader thrips
+13-rice_shell pest
+2-paddy_stem_maggot
+3-asiatic_rice_borer
+4-yellow_rice_borer
+5-rice_gall_midge
+6-Rice_Stemfly
+7-brown_plant_hopper
+8-white_backed_plant_hopper
+9-small_brown_plant_hopper
